@@ -2,7 +2,6 @@
 #include <stdint.h>
 #include <wchar.h>
 #include <iostream>
-#include <oaidl.h>
 
 using namespace std;
 
